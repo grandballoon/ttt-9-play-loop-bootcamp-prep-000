@@ -42,3 +42,4 @@ while iteration < 9
   turn(board)
   iteration += 1
 end
+end
